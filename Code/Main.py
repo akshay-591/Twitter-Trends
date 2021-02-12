@@ -8,10 +8,10 @@ import sys
 import SentimentAnalysis
 
 
-consumer_key = 'LnvqsGhXy3tUeJGWe3r7b19Dc'
-consumer_secret = 'wrsUnhzFEEJk5XrDIo0nrylBMUFVYu7X0zDbaX3doQnC9wtpi3'
-access_token_key = '1359973518159474689-Y1zqk0uUiIiO82opsHQJJFJQ57UYPB'
-access_token_secret = 'Jmid5TccPy0JtN2CEDi81uUD6NDUBiZTIG76ltqxmtz6R'
+consumer_key = 'Key'
+consumer_secret = 'Key'
+access_token_key = 'Key'
+access_token_secret = 'Key'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token_key, access_token_secret)
