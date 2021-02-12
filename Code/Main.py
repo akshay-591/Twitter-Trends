@@ -61,13 +61,13 @@ for tweet in list_tweets:
         text = tweet.full_text
     ith_tweet = [username, location, text,]
     print()
-    print(f"Tweet {i}:") # Tweet number
-    print(f"Username:{ith_tweet[0]}")
-    print(f"Location:{ith_tweet[1]}")
-    print(f"\nTweet Text:{ith_tweet[2]}")
+    print("Tweet {i}:") # Tweet number
+    print("Username:{ith_tweet[0]}")
+    print("Location:{ith_tweet[1]}")
+    print("\nTweet Text:{ith_tweet[2]}")
     # get sentiment
     sentiment = model.get_sentiment(text)
-    print(f'\nTweet Sentiment = ', sentiment)
+    print('\nTweet Sentiment = ', sentiment)
     print("=======================================================================")
     i += 1
 
