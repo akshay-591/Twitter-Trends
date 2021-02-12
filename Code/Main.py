@@ -69,5 +69,6 @@ for tweet in list_tweets:
     sentiment = model.get_sentiment(text)
     print(f'\nTweet Sentiment = ', sentiment)
     print("=======================================================================")
+    i += 1
 
 sys.stdout.close() # close the files

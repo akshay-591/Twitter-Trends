@@ -3,56 +3,56 @@ Problem a). Latest Trending Topics for India (#tag and No. of tweets)
 
 
                         Hashtag  No. of Tweets
-0         #6YearsOfTemperImpact        65550.0
-1                 #BoycottGaana        18142.0
-2        #JusticeForRinkuSharma      1158918.0
-3                         #RC15       226529.0
-4                  #रिंकू_शर्मा        45494.0
-5   WE WANT SOORYAVANSHI UPDATE        27575.0
-6               ACE IT LIKE RKV       378285.0
+0         #6YearsOfTemperImpact        71245.0
+1                 #BoycottGaana        19938.0
+2        #JusticeForRinkuSharma      1177964.0
+3                         #RC15       230300.0
+4                  #रिंकू_शर्मा        46959.0
+5   WE WANT SOORYAVANSHI UPDATE        31904.0
+6               ACE IT LIKE RKV       408752.0
 7   ArrestMGF ShravanGupta ASAP            NaN
-8        CBI PUNISH SSR KILLERS       138846.0
-9                    WF-1000XM3            NaN
-10                     Djokovic        13324.0
-11                 tanzila anis        20003.0
-12                        Thiem        25534.0
+8           WE WANT SREE IN IPL            NaN
+9        CBI PUNISH SSR KILLERS       141668.0
+10                   WF-1000XM3            NaN
+11                     Djokovic        13711.0
+12                        Thiem        25830.0
 13                 Virudhunagar            NaN
-14                         Sack        20701.0
-15                        Fritz        10736.0
-16                  Dilip Ghosh            NaN
-17               Mega Powerstar            NaN
-18                      Kyrgios        26436.0
-19                        Novak            NaN
-20                    PAN India        12545.0
-21                        Nehru            NaN
-22                   Hisense TV            NaN
-23                    Tollywood            NaN
-24                   Aksai Chin            NaN
-25                 POOJA SHARMA            NaN
-26                        sehun       203928.0
-27               Ajinkya Rahane            NaN
-28                      haechan       322924.0
-29                  happy losar            NaN
-30                    Happy Hug        21474.0
-31           #FridaysWithArmaan            NaN
-32          #BJPInsultsMaaDurga        29989.0
-33                       #SVC50        44372.0
-34               #WealthLooters            NaN
-35              #RabbaMeharKari        17112.0
-36              #CloserWithSony            NaN
-37                   #RamCharan       131804.0
-38           #HindusLivesMatter       101699.0
-39                     #Shankar        34703.0
-40                 #WandaVision       214307.0
-41           #Help_Vikash_Meena            NaN
-42                     #AusOpen        61084.0
-43              #BengalForYouth            NaN
-44              #BachelorTeaser            NaN
-45      #शिक्षक_बहाली_ऑनलाइन_हो            NaN
-46                #LiveTelecast            NaN
-47     #JHOPEPlazaClaroColombia       720792.0
-48                  #JaiShriRam        24893.0
-49                  #INLoveWith            NaN
+14                 Tanzila Anis        21149.0
+15                  Dilip Ghosh            NaN
+16                         Sack        21167.0
+17                        Fritz        11003.0
+18               Mega Powerstar        13303.0
+19                      Kyrgios        26652.0
+20                        Novak            NaN
+21                    Pan India        13022.0
+22                        Nehru            NaN
+23                   Hisense TV            NaN
+24                    tollywood            NaN
+25                   Aksai Chin            NaN
+26                 pooja sharma            NaN
+27                        sehun       207333.0
+28               Ajinkya Rahane            NaN
+29                      haechan       326695.0
+30           #FridaysWithArmaan            NaN
+31          #BJPInsultsMaaDurga        35226.0
+32                       #SVC50        45397.0
+33               #WealthLooters            NaN
+34              #RabbaMeharKari        19607.0
+35           #HindusLivesMatter       102949.0
+36                 #WandaVision       223445.0
+37                     #Shankar        35378.0
+38              #CloserWithSony            NaN
+39                   #RamCharan       133907.0
+40           #Help_Vikash_Meena            NaN
+41              #BengalForYouth            NaN
+42                     #AusOpen        61711.0
+43      #शिक्षक_बहाली_ऑनलाइन_हो            NaN
+44                  #JaiShriRam        25458.0
+45              #BachelorTeaser            NaN
+46                  #INLoveWith            NaN
+47                #LiveTelecast            NaN
+48     #JHOPEPlazaClaroColombia       724095.0
+49                 #INdiaKeLiye            NaN
 =======================================================================
 
 Problem b) and c) - Extract first 100 Tweets for #JoeBiden and Find the Sentiment of these Tweets 
@@ -60,6 +60,278 @@ Problem b) and c) - Extract first 100 Tweets for #JoeBiden and Find the Sentimen
  ====================================== ==
 
 Tweet 1:
+Username:ScarQuip
+Location:Aliquippa, PA
+
+Tweet Text:“#China is going to eat our lunch? C’mon man.” -#JoeBiden                “If we’re not careful, China is going to eat our lunch.” - Joe Biden.      Which is ti , MAN? 🤨 #CNN #MSNBC @KateBolduan @chrislhayes @kaitlancollins @KBeds @Yamiche @helenecooper
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 2:
+Username:ALEXANDER7___
+Location:
+
+Tweet Text:If the senate don't convict trump,he'll do it again&amp;again etc,the nile transmitter "THE MOSQUITO TRUMP" will continue infecting so many people with malaria,until the INFECTOR make no more politics,till then the virus will end. #JoeBiden #thedemocrats #Massachusetts #cspan #CNN
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 3:
+Username:BinAshry
+Location:working on a personal website, which will see the light, hopefully in the near future.
+
+Tweet Text:@POTUS the #electric grid to the underground, on monthly basis. The heavy #Industry will add another half a million! Now imagine the services sectors, such as airlines, hotels and related facilities, which are among the hard hit industries. It is a win win situation. #JoeBiden
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 4:
+Username:DebraMoore51
+Location:Whidbey Island, WA
+
+Tweet Text:@ComoVivian @rjcrock2003 Hey, so you did not hear that #JoeBiden want cops to have MORE money ? They do not seem to be able to control themselves at all these days, and people wonder why folks are fighting back 
+
+This will not bring peace, it will bring more push back.
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 5:
+Username:syrusbarandaz
+Location:Essert, France
+
+Tweet Text:Qatar Foreign Minister and #JoeBiden 's Iran point-man Robert Malley discuss new strategy to revive Obama"nuke deal" with Iran. 
+Seems Qatar hopes to join future talks on the issue.
+In that case why should Saudi Arabia, the UAE and Israel be excluded from negotiations with Iran?
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 6:
+Username:hemantkapoor21
+Location:Faridabad
+
+Tweet Text:@immigrationgirl Many immigrant spouses have fallen victim to this inconsiderate processing timelines. With no definitive answer from #uscis, many families who are high tax paying and legal are going through so much turmoil. #JoeBiden and #KamalaHarris, I request U to please look into this issue.
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 7:
+Username:TheBigDsEgo
+Location:United States
+
+Tweet Text:This.👇🏼
+#JoeBiden #DonaldTrump https://t.co/pDqmnt6KEB
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 8:
+Username:Tallahassee505
+Location:United States
+
+Tweet Text:@PressSec @JoeBiden @jrpsaki Lets circle back to this now. #CircleBack #CircleBackGirl #CircleBackJen #JoeBiden #NY #Cuomocide https://t.co/JsstHNwcMH
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 9:
+Username:Platitude_Joe
+Location:I 💚#Bern, #UBI, #M4A, #GND
+
+Tweet Text:@POTUS @DNC As a senator and vice president, #JoeBiden enabled China to pillage and decimate the US Manufacturing Industries. 
+
+Today he is pretending he is tough on China. https://t.co/dbYr8rgtz0
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 10:
+Username:AlexRastegar63
+Location:
+
+Tweet Text:Things i want,get my relatives &amp; friends with benefits out of my life &amp; control of my affairs&amp;life/media. Get them out of media, give me a face to face appt, put some of my own money in my account or let me draw a salary as the ceo. I want this to end by Valentine's Day #joebiden
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 11:
+Username:tgpwlm
+Location:Florida
+
+Tweet Text:He is reportedly talking with close advisers about running in 2024
+#DonaldTrump #JoeBiden #DonaldTrump2024 https://t.co/Q3GI1lyZXa
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 12:
+Username:azahar_emon
+Location:
+
+Tweet Text:Do you want to optimize the Image EXIF data? Then contact: https://t.co/vNV3k6h2eq
+
+#neilpatel #DonaldTrump #JoeBiden #JamieIndigo https://t.co/uQy5du9ZSi
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 13:
+Username:pugwynde
+Location:Crowsnest Pass, Alberta
+
+Tweet Text:"... There is hope...Stay strong..." Thank you, President Biden 🙏🏻❤️ @POTUS #JoeBiden @DrBiden https://t.co/3trdoZSaUz
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 14:
+Username:phoeniciaelias
+Location:Canada. Ontario
+
+Tweet Text:Qatar Foreign Minister and #JoeBiden 's Iran point-man Robert Malley discuss new strategy to revive Obama"nuke deal" with Iran. 
+Seems Qatar hopes to join future talks on the issue.
+In that case why should Saudi Arabia, the UAE and Israel be excluded from negotiations with Iran?
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 15:
+Username:AmyTidd
+Location:Florida
+
+Tweet Text:This is wonderful. President Biden said Champ is an old dog. They got Major to keep Champ going. This says so much about who he is. @POTUS love goes beyond people to canines. ❤️❤️ #JoeBiden #DrjillBiden @FLOTUS https://t.co/rO6k3tTP6r
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 16:
+Username:pirate5742
+Location:motor city
+
+Tweet Text:@HelenKennedy I'm really digging the fact that #Biden is into this reconciliation, bygones be whatever, and he's employing one of the #Trump, #TrumpCrimeFamily kids, or allowing him to do his community service after grifting from the kids with cancer charity. Bless you #JoeBiden https://t.co/0w7OyFyITW
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 17:
+Username:patte151
+Location:Lansing, MI
+
+Tweet Text:This is wonderful. President Biden said Champ is an old dog. They got Major to keep Champ going. This says so much about who he is. @POTUS love goes beyond people to canines. ❤️❤️ #JoeBiden #DrjillBiden @FLOTUS https://t.co/rO6k3tTP6r
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 18:
+Username:ScarQuip
+Location:Aliquippa, PA
+
+Tweet Text:And #JoeBiden was considering this #Criminal to be Attorney General! 
+#CNN #MSNBC #JusticeMatters #NewYork @MajorCBS @matthewjdowd @MaxBoot @donlemon @GloriaBorger @neeratanden https://t.co/thwacAT5Uc
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 19:
+Username:MamaTried7
+Location:Chicago, IL
+
+Tweet Text:"This is the time to heal in America."
+#JoeBiden #Democrats https://t.co/nAQclLX8iq
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 20:
+Username:kk131066
+Location:Kuala Lumpur, Malaysia
+
+Tweet Text:There is a time &amp; a place for everything, incl. compromise
+
+#people who compromise on FUNDAMENTALS risk losing everything
+
+#Trump #TrumpCrimeFamily #TrumpTreason #TraitorTrump #JoeBiden #BidenHarris2020 #TrumpIsANationalDisgrace #coronavirus #racism #DictatorTrump #resist #Truth https://t.co/N7hoI9SZYP
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 21:
+Username:MohammmadQahta1
+Location:
+
+Tweet Text:@POTUS Dear President 
+
+@POTUS
+
+and 
+
+@VP
+
+, please give another chance to all Lottery winners who had been refused under section 212(f), pursuant to Presidential proclamation 9645 since 2017 until 2020. #MuslimBan #DV_Diversity_visa #BidenTakeAction #JoeBiden #GodBlessAmerica
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 22:
+Username:Seven_Soldiers
+Location:Philadelphia, PA
+
+Tweet Text:Our @FLOTUS, Dr. Jill Biden, sets up a #ValentinesDay display on the White House grounds.  "I just wanted some joy. Everybody's feeling a little down. So, it's just a little joy. A little hope. That's all."  Nice change, isn't it??  #JillBiden #JoeBiden #FirstDogs #PresidentBiden https://t.co/WZtkI5ljqo
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 23:
+Username:30Cimorghir
+Location:
+
+Tweet Text:Qatar Foreign Minister and #JoeBiden 's Iran point-man Robert Malley discuss new strategy to revive Obama"nuke deal" with Iran. 
+Seems Qatar hopes to join future talks on the issue.
+In that case why should Saudi Arabia, the UAE and Israel be excluded from negotiations with Iran?
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 24:
+Username:ThiHa2316
+Location:Myanmar
+
+Tweet Text:Badly military Min Aung Hlaing group destroy restaurant shop today. #SaveMyanmar 
+https://t.co/UcpxrZw2qE
+#CNN #cna #FoxNews #AlJazeera #bbcnews #JoeBiden #UN
+
+Tweet Sentiment =  Negative
+=======================================================================
+
+Tweet 25:
+Username:DPerwani
+Location:karachi 
+
+Tweet Text:Thank god for #JoeBiden at least there is some class back in America again !
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 26:
+Username:MohammmadQahta1
+Location:
+
+Tweet Text:@FLOTUS Dear President 
+
+@POTUS
+
+and 
+
+@VP
+
+, please give another chance to all Lottery winners who had been refused under section 212(f), pursuant to Presidential proclamation 9645 since 2017 until 2020. #MuslimBan #DV_Diversity_visa #BidenTakeAction #JoeBiden #GodBlessAmerica
+
+Tweet Sentiment =  Positive
+=======================================================================
+
+Tweet 27:
 Username:Empoweredlatin1
 Location:Georgia USA
 
@@ -68,7 +340,7 @@ Tweet Text:#thankyou #trump for doing nothing for the 400,000 that have died. U.
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 28:
 Username:JRD_FTW99
 Location:UK
 
@@ -77,7 +349,7 @@ Tweet Text:@CNN Thank God for Joe Biden. Trump, Maga and QAnon are controlled by
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 29:
 Username:Engmehran2
 Location:
 
@@ -92,7 +364,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 30:
 Username:ProdigyParadox
 Location:Canada
 
@@ -104,7 +376,7 @@ Joe Biden Has Announced An Executive Order To Freeze New And Pending Regulations
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 31:
 Username:ProdigyParadox
 Location:Canada
 
@@ -116,7 +388,7 @@ Joe Biden Has Announced An Executive Order To Extend Protection To Liberians In 
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 32:
 Username:Engmehran2
 Location:
 
@@ -131,7 +403,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 33:
 Username:Engmehran2
 Location:
 
@@ -146,7 +418,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 34:
 Username:Engmehran2
 Location:
 
@@ -161,7 +433,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 35:
 Username:Engmehran2
 Location:
 
@@ -176,7 +448,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 36:
 Username:MikeDSully
 Location:RI 
 
@@ -185,7 +457,7 @@ Tweet Text:@JackPosobiec @Yanky_Pollak Uh oh. #JoeBiden is an elderly man. Is is
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 37:
 Username:thousest
 Location:
 
@@ -194,7 +466,7 @@ Tweet Text:Chinese President Xi Jinping and U.S. President #JoeBiden had their f
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 38:
 Username:GeneticLiberal
 Location:
 
@@ -204,7 +476,7 @@ Tweet Text:What Everyone Missed About #JoeBiden's Double-Speak on Ending #Yemen 
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 39:
 Username:tkleghorn1
 Location:
 
@@ -213,7 +485,7 @@ Tweet Text:Love is back at the White House! 💕 So inspiring to have a caring c
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 40:
 Username:MohammmadQahta1
 Location:
 
@@ -230,7 +502,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 41:
 Username:WmnLaw4Biden
 Location:
 
@@ -239,7 +511,7 @@ Tweet Text:United States President #JoeBiden has revoked the national emergency 
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 42:
 Username:mahbobebeh
 Location:
 
@@ -250,7 +522,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 43:
 Username:MoralesYevonne
 Location:South Carolina, USA
 
@@ -259,7 +531,7 @@ Tweet Text:#elizabethwaren #JoeBiden #ssi200 yall promised to help the people on
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 44:
 Username:SomersetNews
 Location:
 
@@ -268,7 +540,7 @@ Tweet Text:#JoeBiden manages to ‘sneakily and cunningly’ evade problems with
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 45:
 Username:RealSomethingS1
 Location:🏖  Tranquility Base
 
@@ -279,7 +551,7 @@ https://t.co/F9HjjZ6rhW
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 46:
 Username:BinAshry
 Location:working on a personal website, which will see the light, hopefully in the near future.
 
@@ -288,7 +560,7 @@ Tweet Text:@POTUS were the real eye opener. Couldn't believe how stupid I was. I
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 47:
 Username:MohammmadQahta1
 Location:
 
@@ -305,7 +577,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 48:
 Username:DrAbduraheem
 Location:Jeddah, Makkah Al Mukarrama
 
@@ -322,7 +594,7 @@ This is their #Humanity
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 49:
 Username:OscarsWild1
 Location:The Outer Rim
 
@@ -333,7 +605,7 @@ https://t.co/B3ldxr6AOr
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 50:
 Username:iraniyamm
 Location:ایران پادشاهی 
 
@@ -344,7 +616,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 51:
 Username:Real_Talk_News1
 Location:America 
 
@@ -353,7 +625,7 @@ Tweet Text:China Joe and the KKK #JoeBiden https://t.co/gUUrRrUliJ
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 52:
 Username:Txcrusader65cm
 Location:Texas
 
@@ -364,7 +636,7 @@ Tweet Text:On day 24 of the .@joebiden admin, 385 Texans were  murdered by the i
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 53:
 Username:MinooSadigh
 Location:
 
@@ -375,7 +647,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 54:
 Username:zazadeh0111
 Location:
 
@@ -390,7 +662,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 55:
 Username:zazadeh0111
 Location:
 
@@ -405,7 +677,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 56:
 Username:souravi20947532
 Location:
 
@@ -414,7 +686,7 @@ Tweet Text:@immigrationgirl Many immigrant spouses have fallen victim to this in
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 57:
 Username:shagholos2
 Location:
 
@@ -425,7 +697,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 58:
 Username:plazaro13
 Location:SJ, NY, FL
 
@@ -434,7 +706,7 @@ Tweet Text:I LOVE 💗 THIS #JoeBiden 💕 https://t.co/f44HcbPjK7
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 59:
 Username:hastineh1
 Location:
 
@@ -445,7 +717,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 60:
 Username:DottiMillotti
 Location:
 
@@ -455,7 +727,7 @@ Tweet Text:"This is the time to heal in America."
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 61:
 Username:Tkarera
 Location:North America 
 
@@ -466,7 +738,7 @@ https://t.co/gvzGydS89Q @Newsweek
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 62:
 Username:0moein
 Location:PahlaviKingdomIran
 
@@ -477,7 +749,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 63:
 Username:zazadeh0111
 Location:
 
@@ -492,7 +764,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 64:
 Username:naxalite
 Location:root of d:
 
@@ -501,7 +773,7 @@ Tweet Text:Any hope for sanctions here #JoeBiden or are you the milquetoastiness
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 65:
 Username:zazadeh0111
 Location:
 
@@ -516,7 +788,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 66:
 Username:TheBigDsEgo
 Location:United States
 
@@ -527,7 +799,7 @@ https://t.co/cJj13C9Qka
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 67:
 Username:Rigzone
 Location:Worldwide
 
@@ -538,7 +810,7 @@ Tweet Text:President Biden wants to eliminate emissions from the electric system
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 68:
 Username:zazadeh0111
 Location:
 
@@ -553,7 +825,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 69:
 Username:zazadeh0111
 Location:
 
@@ -566,7 +838,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 70:
 Username:zazadeh0111
 Location:
 
@@ -581,7 +853,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 71:
 Username:MeinDonaldRump
 Location:Long Island, USA
 
@@ -590,7 +862,7 @@ Tweet Text:We are so blessed to have such real down-to-Earth human beings in the
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 72:
 Username:eaglema3259
 Location:
 
@@ -601,7 +873,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 73:
 Username:Clarsonimus
 Location:Berlin
 
@@ -611,7 +883,7 @@ Tweet Text:"This is the time to heal in America."
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 74:
 Username:zazadeh0111
 Location:
 
@@ -626,7 +898,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 75:
 Username:HereIAm65094900
 Location:
 
@@ -637,7 +909,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 76:
 Username:AmirTaheri4
 Location:Paris, France
 
@@ -648,7 +920,7 @@ In that case why should Saudi Arabia, the UAE and Israel be excluded from negoti
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 77:
 Username:DebraBuenik
 Location:
 
@@ -659,7 +931,7 @@ Tweet Text:Something seems backwards here...
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 78:
 Username:Clarsonimus
 Location:Berlin
 
@@ -669,7 +941,7 @@ Tweet Text:Joe &amp; Co. want it so, ladies.
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 79:
 Username:robinblosser
 Location:
 
@@ -678,7 +950,7 @@ Tweet Text:Literally the best thing I’ve watched in 2021.  Also, Joe is rockin
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 80:
 Username:exgamerAT
 Location:
 
@@ -689,7 +961,7 @@ Tweet Text:Something seems backwards here...
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 81:
 Username:Clarsonimus
 Location:Berlin
 
@@ -700,7 +972,7 @@ https://t.co/HxyErE9SA1
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 82:
 Username:ChickJewish
 Location:
 
@@ -709,7 +981,7 @@ Tweet Text:#joebiden should be appreciating what works in Florida and try to imp
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 83:
 Username:Clarsonimus
 Location:Berlin
 
@@ -720,7 +992,7 @@ https://t.co/HxyErE9SA1
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 84:
 Username:Clarsonimus
 Location:Berlin
 
@@ -731,7 +1003,7 @@ https://t.co/HxyErE9SA1
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 85:
 Username:Muslima69758013
 Location:
 
@@ -746,7 +1018,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 86:
 Username:UDeabes
 Location:
 
@@ -764,7 +1036,7 @@ Tweet Text:@Koki3558 @JoeBiden Dear President
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 87:
 Username:arthur57to00
 Location:
 
@@ -779,7 +1051,7 @@ Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all L
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 88:
 Username:huntingrl69
 Location:
 
@@ -788,7 +1060,7 @@ Tweet Text:#joebiden so far has done EVERYTHING the oppositie of what he said he
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 89:
 Username:NancyDoleMcGuig
 Location:Richmond VA
 
@@ -797,7 +1069,7 @@ Tweet Text:@HouseGOP @RepFischbach Not true..  #JoeBiden @POTUS signed executive
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 90:
 Username:fashionchaos
 Location:Arizona, USA
 
@@ -806,7 +1078,7 @@ Tweet Text:#joebiden so far has done EVERYTHING the oppositie of what he said he
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 91:
 Username:RalphBr97911949
 Location:
 
@@ -823,7 +1095,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 92:
 Username:AkramAlrahbee
 Location:Yemen
 
@@ -840,7 +1112,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 93:
 Username:AkramAlrahbee
 Location:Yemen
 
@@ -857,7 +1129,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 94:
 Username:AkramAlrahbee
 Location:Yemen
 
@@ -874,7 +1146,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 95:
 Username:AkramAlrahbee
 Location:Yemen
 
@@ -891,7 +1163,7 @@ and
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 96:
 Username:JoeBiden_US1
 Location:Wilmington, DE
 
@@ -900,7 +1172,7 @@ Tweet Text:Democrats pushing Biden's COVID-19 bill through House panels https://
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 97:
 Username:yasmari97299970
 Location:
 
@@ -913,7 +1185,7 @@ Please resume US consular functions in Havana. Travel to Guyana is an economic b
 Tweet Sentiment =  Negative
 =======================================================================
 
-Tweet 1:
+Tweet 98:
 Username:RhondaTheCat
 Location:Virginia, USA
 
@@ -923,7 +1195,7 @@ Tweet Text:@MicheleMuse5 @therecount A vast difference!
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 99:
 Username:retrograde
 Location:
 
@@ -934,304 +1206,9 @@ Tweet Text:What are you most excited for @JoeBiden to spend your hard-earned mon
 Tweet Sentiment =  Positive
 =======================================================================
 
-Tweet 1:
+Tweet 100:
 Username:Nichola03233062
 Location:
-
-Tweet Text:@SchuelerRonnie @Nichola03233062 He did this... #JoeBiden https://t.co/1G2Lmwm0VO
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:DireAlWatan
-Location:Moon
-
-Tweet Text:The statement of the #US Secretary of State does not indicate #America’s intention to stop supporting #Obama’s #Iran project for credibility. It must be a statement from the #SecretaryofDefense to trust America’s intentions.
-@UN
-#UN
-@UN_HRC
-@IntlCrimCourt
-#ICC
-#JoeBiden
-#PSD11 https://t.co/OkqkfdtAvM
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:CiaranTalking
-Location:
-
-Tweet Text:@thehankrose @MaajidNawaz @splcenter If I may paraphrase the next "Great White Corporate Hope" #JoeBiden "If you don't vote for me, you ain't black"
-Listen, the aliens are already here &amp; pretty soon we'll all be used as food or made to fight each other to the death like the gladiators of old for their entertainment! https://t.co/QFSQ4xoRSs
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:AppleRTweet
-Location:From the Cloud
-
-Tweet Text:#Technology's Holier Than Thou | Technocratic bullying is yet another reason to deploy a new operating system for #Humanity. https://t.co/35EFehUxI9 #Apple #EuropeanCommission #Evolution #Facebook #JoeBiden #SiliconValley #SocialMedia #TimCook #UrsulaVonDerLeyen #USA https://t.co/2agLcTQXHG
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:arthur57to00
-Location:
-
-Tweet Text:Dear President 
-@POTUS
-and 
-@VP
-, please give another chance to all Lottery winners who had been refused under section 212(f), pursuant to Presidential proclamation 9645 since 2017 until 2020. #MuslimBan #DV_Diversity_visa #JoeBiden https://t.co/BMVeuXcfem
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:trunkmonkey19
-Location:Canada
-
-Tweet Text:#WeLoveGinaCarano #CancelDisneyPlus There really is no free speech in America anymore. #JoeBiden has completely killed that.
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:calamical
-Location:
-
-Tweet Text:#C4countdown   #Anagram     #Numbers     #BrainTraining
-
-10 2 4 1 100 25    626
-
-4+2*100    +25   +1    626
-
-=
-#Biden casual #watch quartz
-
-#JoeBiden #potus
-
-https://t.co/so46fKDS3S
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:LibtardTrollbot
-Location:Wandering down the freeway
-
-Tweet Text:Now #dementiajoe @JoeBiden says China is going to eat our lunch?
-
-Who elected this buffoon? 
-
-🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
-
-Oh, the brain dead liberal #democrats 
-#ImpeachJoeBidenNow #America #JoeBidenIsNotMyPresident #women sports is dead thanks to #JoeBiden
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:calamical
-Location:
-
-Tweet Text:#C4countdown   #Anagram     #Numbers     #BrainTraining
-
-CUENTIWOG
-
-WINGE
-
-=
-
-#Biden Sport #watch quartz
-
-#JoeBiden #potus
-
-https://t.co/Gw2xnXL3Mv
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:tikooa
-Location:
-
-Tweet Text:@Ram_Guha Yours summed up: everything is horrible with FoE &amp; those protesting &amp; speaking against govt
-Wonder how isn't your FoE curbed despite d kind of spew. Also if your sacrosanct #Rihanna or #Greta was right why #JoeBiden or #Kamla didn't have a sit-in at Capitol like your dimmy Rahul
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:MohammmadQahta1
-Location:
-
-Tweet Text:@seungminkim @heatherscope @lbarronlopez @sarahnferris Dear President 
-@POTUS
-  and  
-@VP
- , please give another chance to all Lottery winners who had been refused under section 212(f), pursuant to Presidential proclamation 9645 since 2017 until 2020. 
-#MuslimBan 
-#DV_Diversity_visa 
-#BidenTakeAction 
-#JoeBiden 
-#GodBlessAmerica
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:RalphBr97911949
-Location:
-
-Tweet Text:#Technology's Holier Than Thou | Technocratic bullying is yet another reason to deploy a new operating system for #Humanity. https://t.co/35EFehUxI9 #Apple #EuropeanCommission #Evolution #Facebook #JoeBiden #SiliconValley #SocialMedia #TimCook #UrsulaVonDerLeyen #USA https://t.co/2agLcTQXHG
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:realmethod41
-Location:U.S.A.
-
-Tweet Text:#Technology's Holier Than Thou | Technocratic bullying is yet another reason to deploy a new operating system for #Humanity. https://t.co/35EFehUxI9 #Apple #EuropeanCommission #Evolution #Facebook #JoeBiden #SiliconValley #SocialMedia #TimCook #UrsulaVonDerLeyen #USA https://t.co/2agLcTQXHG
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:_varshasingh_
-Location:New Delhi, Kolkata
-
-Tweet Text:US President #JoeBiden cancels national emergency order used to fund Donald Trump's #BorderWall. Biden wrote to Congress that order was "unwarranted" &amp; no further tax dollars would be sent on wall. When #Trump left office about $25bn had been spent on the project. #MIG @POTUS https://t.co/RcCrdfUVQ1
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:NewsInTwo1
-Location:
-
-Tweet Text:Trump is facing a count charge of inciting the deadly U.S. Capitol attack. ____⠀⠀⠀⠀⠀⠀⠀⠀⠀
-#joebiden #kamalaharris #uselections #election2020 #donaldtrump #impeachmenttrial #democrats #nancypelosi https://t.co/tjCEqcHQVP
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:witinradio
-Location:
-
-Tweet Text:Trump is facing a count charge of inciting the deadly U.S. Capitol attack. ____⠀⠀⠀⠀⠀⠀⠀⠀⠀
-#joebiden #kamalaharris #uselections #election2020 #donaldtrump #impeachmenttrial #democrats #nancypelosi https://t.co/0hMA4ytR1l
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:1Realnatalee
-Location:Washington, USA
-
-Tweet Text:#JoeBiden is the best! https://t.co/xd2nIKnV7c
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:Ceven07200
-Location:
-
-Tweet Text:Poll Finds Majority Of Americans Expect Economy To Worsen Under Biden https://t.co/0uO4aVlBDn #economy #JoeBiden #News #Politics #Poll via @amlookout
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:JJMa92967797
-Location:
-
-Tweet Text:Why nobody report this?   #CCP_is_terrorist  #JoeBiden quietly nixes Trump-era rule combating Chinese Communist-funded ‘propaganda’ centers https://t.co/2Nb0Wgy7fM via @Valley News
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:koigi3
-Location:Central Europe 
-
-Tweet Text:@robsterclaw1 @carimeli @koigi3 I haven't heard ANYONE justify or defend this. Where are the #JoeBiden fans to tell us that this is a good policy that will help the middle class?
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:JazzPoliticsMag
-Location:United States
-
-Tweet Text:US President #JoeBiden has warned that China will “eat our lunch” if America doesn’t “step up” its infrastructure spending.
-✅https://t.co/u5aZEgsxdM for more news. https://t.co/VgpaIwWATY
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:EricKin12812275
-Location:
-
-Tweet Text:Where’s the 80 million that voted for him?🤔#BidenLied #bidencorruption #JoeBiden https://t.co/qlu7DrhlW3
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:MejiaLali
-Location:
-
-Tweet Text:Which one of Joe’s Executive Orders puts Americans first? #JoeBiden
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:malih66158037
-Location:
-
-Tweet Text:Dear President @POTUS  and  @VP , please give another chance to all Lottery winners who had been refused under section 212(f), pursuant to Presidential proclamation 9645 since 2017 until 2020. 
-
-#MuslimBan 
-#DV_Diversity_visa 
-#BidenTakeAction 
-#JoeBiden 
-#GodBlessAmerica
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:IndyF1
-Location:United States
-
-Tweet Text:@SchuelerRonnie @Nichola03233062 And this #CreepyJoe #JoeBiden https://t.co/ETLK8Q8Uau
-
-Tweet Sentiment =  Positive
-=======================================================================
-
-Tweet 1:
-Username:TorreySnowWbal
-Location:Baltimore, MD
-
-Tweet Text:Check out my latest @wbalradio video from #MarylandStateHouse as today @GovLarryHogan will tell @POTUS #JoeBiden “We need more damn vaccines” when they meet today @WhiteHouse Listen for coverage on #WBALRadio w/@C4Show &amp; @BryanNehman @yuripzyWBAL @Reporterroblang @TorreySnowWbal https://t.co/b4qDrPznrE
-
-Tweet Sentiment =  Negative
-=======================================================================
-
-Tweet 1:
-Username:IndyF1
-Location:United States
 
 Tweet Text:@SchuelerRonnie @Nichola03233062 He did this... #JoeBiden https://t.co/1G2Lmwm0VO
 
