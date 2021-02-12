@@ -94,7 +94,6 @@ def cleanData(tweet_tokens, stop_words=()):
     return cleaned_tokens
 
 
-# Determine Word density
 
 def get_tweets_for_model(cleaned_tokens_list):
     """
