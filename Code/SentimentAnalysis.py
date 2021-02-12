@@ -59,8 +59,7 @@ class Sentiment(object):
         :return: sentiment
         """
         custom_tokens = cleanData(word_tokenize(data)) # Tokenize the tweet
-        new_tokens = get_tweets_for_model(custom_tokens)
-        return self.classifier.classify(new_tokens)
+        return self.classifier.classify(dict([token, True] for token in custom_tokens))
 
 
 def cleanData(tweet_tokens, stop_words=()):
